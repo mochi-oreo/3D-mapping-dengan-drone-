@@ -29,8 +29,8 @@ Nama: Darvesh Valubia Nabel | NRP: 5022231170
 ![Peta 3D](3D%20Mapping%20Image.png)
 
 ## Video Demo
-- Video demo proses mapping: [LINK YT/GDRIVE]
-- Video demo hasil 3D mapping: [LINK YT/GDRIVE]
+- Video demo proses mapping: https://drive.google.com/file/d/1a3xOCOI5CSDMy4KO_ycoCw59zIFf9H86/view?usp=sharing
+- Video demo hasil 3D mapping: https://drive.google.com/file/d/16X94KCCnr7hZnKUwwEh8VVFYjmO89WE0/view?usp=sharing
 
 ## Isi Repository
 - `UTS.py` : kode Python (kontrol drone, scan, voxel, color mapping)
